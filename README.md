@@ -3,4 +3,6 @@
 
 A sample repository created to practice and explore the basics of Git and GitHub.
 
+Learning in Progress
+
 
