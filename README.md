@@ -3,6 +3,7 @@
 
 A sample repository created to practice and explore the basics of Git and GitHub.
 
-Learning in Progress
+## Contents
+- `TodoApp.java` - A console-based Todo List application written in Java
 
 
