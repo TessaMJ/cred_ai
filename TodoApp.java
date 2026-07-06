@@ -1,4 +1,4 @@
-// Week 2 Assignment - Todo List Application
+// Todo List Application
 // A console app to manage tasks with categories, status tracking and sorting
 
 import java.time.LocalDate;
